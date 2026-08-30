@@ -1,5 +1,6 @@
 ## Hi there 👋
 
+Hello, I'm Gilbert Arjon, a 15 year old from Kansas who plans to be a programmer! I'm currently in Elite 101 through the Code2College program, and I'm excited to build onto my skills I've learned.
 <!--
 **SchiggityDiggity/SchiggityDiggity** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
